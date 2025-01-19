@@ -1,4 +1,2 @@
 # bit-neural-network
-idk i made this to implement some sort of bitmap i shouldve just used convolutions
-
-also can someone help convert mnist to a matrix 😭 
+idk i made this as an alternative to a cnn, will try to see how different they actually are
